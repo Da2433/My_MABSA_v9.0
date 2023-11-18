@@ -10,7 +10,8 @@ fairseq==0.9.0
 transformers==4.18.0
 
 # Dataset and Ckpt
-We employ the dataset TWITTER2015 and TWITTER2015 data set. the processed multi-modal data, and the pre-trained checkpoint at https://pan.baidu.com/s/1Fliegko5-DMQITyrS8yHYA?pwd=odv1 Extraction code: odv1
+We employ the dataset TWITTER2015 and TWITTER2015 data set. the processed multi-modal data, and the pre-trained checkpoint at 链接：https://pan.baidu.com/s/1UwIA2Lps3JquHbkcMpncwQ?pwd=1212 
+Extraction code: 1212
 
 # Coder Quickstart
 python main.py
